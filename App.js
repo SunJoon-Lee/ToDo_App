@@ -75,11 +75,12 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: 'column',
     paddingTop: 50,
-    backgroundColor: "#EEE",
+    backgroundColor: "#dbf1ff",
   },
   title: {
     fontWeight: "800",
     fontSize: 30, 
+    color: "#323232",
     marginLeft: 20,
     marginBottom: 20,
   }

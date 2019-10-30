@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
         flex: 1,
     },
     addBtn: {
-        color: '#4169E1'
+        color: '#1f95ff'
     }
 });
 
